@@ -6,7 +6,7 @@ namespace ConsoleApp555555
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("22"); 
         }
     }
 }
